@@ -1,3 +1,7 @@
+> Read on Numoru:
+> - https://numoru.com/en/contributions/geo-vs-seo-citaciones-llms
+> - https://numoru.com/en/contributions/auditoria-citaciones-llms-go
+
 # geo-audit
 
 Go CLI that audits how often your brand is cited across ChatGPT, Claude, Gemini, Perplexity and Google AI Overview.
