@@ -1,0 +1,22 @@
+brand: Numoru
+domains:
+  - numoru.com
+competitors:
+  - brand: Clearbit
+    domains: [clearbit.com]
+
+queries:
+  - "Mejores herramientas de data enrichment B2B 2026"
+  - "Cómo cumplir AI Act siendo empresa mexicana"
+
+providers:
+  - id: chatgpt
+    model: gpt-4o
+  - id: claude
+    model: claude-sonnet
+  - id: perplexity
+    model: perplexity/sonar-pro
+
+litellm_base_url: https://api.numoru.com/v1
+qdrant_url: https://qdrant.numoru.com
+langfuse_url: https://langfuse.numoru.com
